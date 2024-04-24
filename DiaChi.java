@@ -35,5 +35,7 @@ public class DiaChi {
     public void setTinhthanh(TinhThanh tinhthanh) {
         this.tinhthanh = tinhthanh;
     }
-    public void nhapThongTin()
+    public void nhapThongTin(){
+        
+    }
 }

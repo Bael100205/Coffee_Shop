@@ -1,3 +1,4 @@
+package Coffee_Shop;
 public class TinhThanh {
     private int matinh;
     private String tentinh;
